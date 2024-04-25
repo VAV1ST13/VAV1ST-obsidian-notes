@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"type":"text","text":"новости","id":"e892416d97e71b87","x":420,"y":-249,"width":153,"height":64},
+		{"type":"text","text":"Metaverse-сообщество новости","id":"1e2ddcf455df0c37","x":-173,"y":-136,"width":403,"height":60},
+		{"type":"text","text":"обзоры","id":"22d009ec7ddd8bba","x":-514,"y":2,"width":133,"height":61},
+		{"type":"text","text":"*обзор Vket*","id":"12d54dd34d93f4e2","x":-940,"y":83,"width":250,"height":60},
+		{"id":"375ec8753a04f7a0","x":854,"y":-337,"width":161,"height":67,"type":"text","text":"02.08.23"},
+		{"id":"dafb32e5226ad6f9","x":1214,"y":-393,"width":352,"height":89,"type":"text","text":"*Creator Hub RecRoom*\n[[202308021330]]"}
+	],
+	"edges":[
+		{"id":"abebb6dac4b9e44b","fromNode":"1e2ddcf455df0c37","fromSide":"left","toNode":"22d009ec7ddd8bba","toSide":"right"},
+		{"id":"d49b67f526919c91","fromNode":"1e2ddcf455df0c37","fromSide":"right","toNode":"e892416d97e71b87","toSide":"left"},
+		{"id":"20c15857fbe66ed5","fromNode":"22d009ec7ddd8bba","fromSide":"left","toNode":"12d54dd34d93f4e2","toSide":"right"},
+		{"id":"eb88adbf259735c8","fromNode":"e892416d97e71b87","fromSide":"right","toNode":"375ec8753a04f7a0","toSide":"left"},
+		{"id":"a70eb5dd26894d1c","fromNode":"375ec8753a04f7a0","fromSide":"right","toNode":"dafb32e5226ad6f9","toSide":"left"}
+	]
+}

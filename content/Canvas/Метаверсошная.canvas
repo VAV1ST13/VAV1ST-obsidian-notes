@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"3826310d01ba3625","x":81,"y":-128,"width":250,"height":60,"type":"text","text":"Метаверсошная"},
+		{"id":"3438ef8c4c7bb5ab","x":-630,"y":36,"width":335,"height":188,"type":"text","text":"###### подкаст Метаверсная Правда\n*задачи*\n- поиск монтажера видео\n- поиск спонсора"},
+		{"id":"fad2d948e6aa6440","x":-1383,"y":-21,"width":436,"height":94,"type":"text","text":"Обращение за спонсорством \nи монтажем к PortalVR (вторник)\n(ожидание вторника)"},
+		{"id":"40593b1c6f59ea09","x":700,"y":-667,"width":503,"height":166,"type":"text","text":"###### регулярные встречи\nописание:\nрегулярные *общие встречи* необходимы для формирования общего комьюнити *специалистов по Метавселенной*"},
+		{"id":"204462b7b05871a4","x":1477,"y":-667,"width":461,"height":1122,"type":"text","text":"###### список актуальных участников\n*метаверсошная*\n- @Elly404 (Ольга Каи)\n- @He11ya (Джин Колесников)\n- @VAV1ST\n- @Ranamzes\n- @agalarragimov (Агалар Рагимов)\n- @Enuriru (AR)\n- @vovalanz (Метапутешественник)\n- @egfysbrgs\n- @eugencolter\n- @AziLimitlessMind\n\n  ***\n- @alexisneverlate\n- Roman Sivakov\n- @MrTrickster\n- @bedres\n- @akiaplow (спец. Fortnite)\n***\n*Metaverse сообщество*\n- @daoto\n- @zuckerbrin1 (Venera Metaverse)\n- @apomykanov (Maff)\n- @ASychov (Somnium Space)\n  \n***\n*PoratlVR*\n- @imRogov (PortalVR)\n- @realflair (PortalVR)\n- @lionster96 (PortalVR)"},
+		{"id":"5950a735b1c06368","x":1498,"y":-1153,"width":782,"height":214,"type":"text","text":"###### кто готов возиться с организацией (или раздачей пинков организаторам)\n- @He11ya (Джин Колесников)\n- @VAV1ST\n- @Ranamzes\n- @zuckerbrin1 (Venera Metaverse)"},
+		{"id":"f4b3c7f6d1b361c9","x":700,"y":-247,"width":577,"height":298,"type":"text","text":"###### цель на год\n- формирование комьюнити специалистов по Метавселенной\n*в перспективе*\n- делать регулярные встречи\n\t- с отдельным каналом\n\t- приглашением гостей\n\t- голосованием за темы \n\t  (желательно с четкими общими целями)"},
+		{"id":"26d1ed226de81377","x":700,"y":168,"width":503,"height":101,"type":"text","text":"###### во сколько собираться\n- спросить у Агалара (15:00-16:00 мск четверг)"},
+		{"id":"10efa1c5e1bc5a7e","x":705,"y":456,"width":498,"height":285,"type":"text","text":"###### комнатный рейв\n- проведение сходок в рамках \"VrRaveRoom\"\n- помощь с рисованием плакатов @pegovaart"},
+		{"id":"78048cda99b928f9","x":-1266,"y":170,"width":319,"height":108,"type":"text","text":"Спросить у Ольги\nесли ответа нет, \nто спросить через @realflair"}
+	],
+	"edges":[
+		{"id":"55f20a1f7a6aff6c","fromNode":"3826310d01ba3625","fromSide":"right","toNode":"40593b1c6f59ea09","toSide":"left"},
+		{"id":"ba2fa9e02f3f2f49","fromNode":"40593b1c6f59ea09","fromSide":"right","toNode":"204462b7b05871a4","toSide":"left"},
+		{"id":"ccbffff891a2e5e0","fromNode":"40593b1c6f59ea09","fromSide":"right","toNode":"5950a735b1c06368","toSide":"left"},
+		{"id":"dceb5f6f9f404754","fromNode":"3826310d01ba3625","fromSide":"right","toNode":"f4b3c7f6d1b361c9","toSide":"left"},
+		{"id":"07fc336023fa81ba","fromNode":"3826310d01ba3625","fromSide":"right","toNode":"26d1ed226de81377","toSide":"left"},
+		{"id":"23b47adce776ff30","fromNode":"3826310d01ba3625","fromSide":"left","toNode":"3438ef8c4c7bb5ab","toSide":"right"},
+		{"id":"f40b931b9d56a535","fromNode":"3438ef8c4c7bb5ab","fromSide":"left","toNode":"fad2d948e6aa6440","toSide":"right"},
+		{"id":"69cc2887ce41490f","fromNode":"3826310d01ba3625","fromSide":"right","toNode":"10efa1c5e1bc5a7e","toSide":"left"},
+		{"id":"19f5a11a0623fab5","fromNode":"3438ef8c4c7bb5ab","fromSide":"left","toNode":"78048cda99b928f9","toSide":"right"},
+		{"id":"6a13444cf313c471","fromNode":"fad2d948e6aa6440","fromSide":"bottom","toNode":"78048cda99b928f9","toSide":"top","color":"4"}
+	]
+}

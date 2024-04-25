@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"3252b8209fcf90ec","x":562,"y":-651,"width":223,"height":465,"type":"text","text":"![[размотчики катушек.png]]"},
+		{"id":"bb27bd8befcb4713","x":238,"y":-306,"width":170,"height":51,"type":"text","text":"**аватар 1**"},
+		{"id":"dda368e53ee747b6","x":983,"y":-1031,"width":339,"height":510,"type":"text","text":"**более детальная верхняя часть**\n![[одежда размотчиков катушек.png]]"},
+		{"id":"586ad1e82df81fd2","x":1408,"y":-1033,"width":390,"height":470,"type":"text","text":"**голова**\n*очки сварочные*\n![[сварочные очки.jpg]]\n"},
+		{"id":"ff46a8d9f87bcfdd","x":1093,"y":-441,"width":349,"height":87,"type":"text","text":"**штаны**\n*тот же материал, одноцветные*"},
+		{"id":"a96d523da03f2f9b","x":1069,"y":-282,"width":375,"height":330,"type":"text","text":"**кеды (советские)**\n![[советские кеды.jpg]]"},
+		{"id":"97df0e18fff790ff","x":1520,"y":-478,"width":294,"height":372,"type":"text","text":"**респиратор**\n![[респиратор.jpg]]"}
+	],
+	"edges":[
+		{"id":"043050cb20170bd2","fromNode":"bb27bd8befcb4713","fromSide":"right","toNode":"3252b8209fcf90ec","toSide":"left"},
+		{"id":"2936dc2341ba0521","fromNode":"3252b8209fcf90ec","fromSide":"right","toNode":"dda368e53ee747b6","toSide":"left"},
+		{"id":"14e9e832162b42b6","fromNode":"3252b8209fcf90ec","fromSide":"right","toNode":"ff46a8d9f87bcfdd","toSide":"left"},
+		{"id":"b4e45791c555ac80","fromNode":"3252b8209fcf90ec","fromSide":"right","toNode":"a96d523da03f2f9b","toSide":"left"},
+		{"id":"26bf8ddf7b41d1aa","fromNode":"3252b8209fcf90ec","fromSide":"right","toNode":"586ad1e82df81fd2","toSide":"left"},
+		{"id":"9b1fa05f60e03be1","fromNode":"dda368e53ee747b6","fromSide":"bottom","toNode":"ff46a8d9f87bcfdd","toSide":"top","color":"1"},
+		{"id":"1ce38820b84bce07","fromNode":"3252b8209fcf90ec","fromSide":"right","toNode":"97df0e18fff790ff","toSide":"left"}
+	]
+}

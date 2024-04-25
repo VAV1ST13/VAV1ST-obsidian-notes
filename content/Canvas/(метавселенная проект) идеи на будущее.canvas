@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"type":"text","text":"[[00 метавселенная-проекты]]\n*идеи на будущее*","id":"43b194106e771313","x":-93,"y":-139,"width":358,"height":87},
+		{"type":"text","text":"**Metaverse-сообщество**","id":"a19c66551efd4bd7","x":605,"y":686,"width":325,"height":65},
+		{"type":"text","text":"**VRChatRU**","id":"5a338de363311f41","x":935,"y":-451,"width":154,"height":65},
+		{"type":"text","text":"**подкасты**","id":"e388ac4dafb6e545","x":607,"y":65,"width":158,"height":70},
+		{"type":"text","text":"**Olga Kai**","id":"8fec9c57125e5bd1","x":1012,"y":-54,"width":159,"height":65},
+		{"type":"text","text":"**VR-терки**","id":"9818b7869f11b98e","x":1006,"y":295,"width":184,"height":62},
+		{"type":"text","text":"**Метаверсошная**","id":"b035a5fd84e04773","x":607,"y":1173,"width":225,"height":67},
+		{"type":"text","text":"**Ныряем**\n*вернется с отпуска 4 авг*","id":"59a0f80a977005f3","x":976,"y":113,"width":351,"height":90},
+		{"type":"text","text":"спросить *как делать обзоры?*","id":"7812b4afc4b8ecd4","x":1183,"y":998,"width":397,"height":64},
+		{"type":"text","text":"ивент в понедельник *поход в VKet*(?)\n(позвать Петра)\n(спросить у Ольги, пойдет ли в понедельник?)","id":"6c83743cf626980c","x":1178,"y":739,"width":620,"height":123},
+		{"type":"text","text":"возможно ли репостить ссылки \nна другие ивенты в гр. *Metaverse-сообщество*?","id":"b1a7ad0aec0c59e3","x":1182,"y":546,"width":614,"height":97,"color":"3"},
+		{"type":"text","text":"*потенциальные гости*\nМария - Курехин центр\n(ближе к октябрю)\nShadola, Halerick - RaClub, Metronom\n(в любое время)(?)","id":"40dd9a7089fe9890","x":1513,"y":51,"width":512,"height":188,"color":"1"},
+		{"type":"text","text":"договорится о встрече по теме *Метавселенная*\n(я + Ольга)","id":"2a7175388e7267b1","x":1511,"y":334,"width":579,"height":97,"color":"1"},
+		{"type":"text","text":"возможно ли репостить ссылки \nна другие ивенты в гр. *VRChatRU*?","id":"07a6320ee664a610","x":1304,"y":-312,"width":441,"height":95,"color":"3"},
+		{"type":"text","text":"VRChatRU собирается проводить свои концерты, \nналадить контакт вместе с *Alex_SPB*\n(спросить *Temmie Dola*)","id":"760f5e44aba22d2f","x":1305,"y":-737,"width":594,"height":122},
+		{"type":"text","text":"надо договорится поставить портал (реклама) \nв Курехин-центр в *Пятерочке*\n(спросить кто делает карту)","id":"69d65e68d8665c75","x":1301,"y":-519,"width":600,"height":117},
+		{"type":"text","text":"ивент \n*поход в ORGANISM*\n(после Vket, в августе)","id":"6d9c6a7fbc82944f","x":1087,"y":1224,"width":399,"height":121}
+	],
+	"edges":[
+		{"id":"5e60611459907efa","fromNode":"43b194106e771313","fromSide":"right","toNode":"5a338de363311f41","toSide":"left"},
+		{"id":"81dd4c6474d110f8","fromNode":"5a338de363311f41","fromSide":"right","toNode":"760f5e44aba22d2f","toSide":"left"},
+		{"id":"0690da630dc3322b","fromNode":"5a338de363311f41","fromSide":"right","toNode":"69d65e68d8665c75","toSide":"left"},
+		{"id":"88c6aba99fc77526","fromNode":"43b194106e771313","fromSide":"right","toNode":"e388ac4dafb6e545","toSide":"left"},
+		{"id":"95be0099c06afac0","fromNode":"e388ac4dafb6e545","fromSide":"right","toNode":"8fec9c57125e5bd1","toSide":"left"},
+		{"id":"e5d718a5b9ec4cbe","fromNode":"e388ac4dafb6e545","fromSide":"right","toNode":"59a0f80a977005f3","toSide":"left"},
+		{"id":"abc77be27d7e6f02","fromNode":"8fec9c57125e5bd1","fromSide":"right","toNode":"40dd9a7089fe9890","toSide":"left"},
+		{"id":"d70212b3760995c3","fromNode":"59a0f80a977005f3","fromSide":"right","toNode":"40dd9a7089fe9890","toSide":"left"},
+		{"id":"a5e491a164287911","fromNode":"e388ac4dafb6e545","fromSide":"right","toNode":"9818b7869f11b98e","toSide":"left"},
+		{"id":"82e7279791f6bdef","fromNode":"9818b7869f11b98e","fromSide":"right","toNode":"40dd9a7089fe9890","toSide":"left"},
+		{"id":"6eecb6a9eb188b25","fromNode":"9818b7869f11b98e","fromSide":"right","toNode":"2a7175388e7267b1","toSide":"left"},
+		{"id":"5b82449f2c10dd9b","fromNode":"5a338de363311f41","fromSide":"right","toNode":"07a6320ee664a610","toSide":"left"},
+		{"id":"548ec702acdc7193","fromNode":"43b194106e771313","fromSide":"right","toNode":"a19c66551efd4bd7","toSide":"left"},
+		{"id":"6499095d6919c397","fromNode":"a19c66551efd4bd7","fromSide":"right","toNode":"b1a7ad0aec0c59e3","toSide":"left"},
+		{"id":"3decbd6828f24867","fromNode":"a19c66551efd4bd7","fromSide":"right","toNode":"6c83743cf626980c","toSide":"left"},
+		{"id":"97e90da94606cda2","fromNode":"a19c66551efd4bd7","fromSide":"right","toNode":"7812b4afc4b8ecd4","toSide":"left"},
+		{"id":"b918dbdc81645778","fromNode":"43b194106e771313","fromSide":"right","toNode":"b035a5fd84e04773","toSide":"left"},
+		{"id":"b1a610b37749b9f3","fromNode":"b035a5fd84e04773","fromSide":"right","toNode":"6d9c6a7fbc82944f","toSide":"left"},
+		{"id":"fdf9c41909eafa78","fromNode":"a19c66551efd4bd7","fromSide":"right","toNode":"6d9c6a7fbc82944f","toSide":"left"}
+	]
+}

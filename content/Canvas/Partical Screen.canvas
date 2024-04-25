@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"9f574ec2b59ac7e3","type":"group","x":-2324,"y":152,"width":508,"height":1431,"label":"Группа без названия"},
+		{"id":"4dc6e3f80204426a","type":"text","text":"автор apple_blossom\n*181223*\n`Я счастлив, что на моей карте так много замечательных и талантливых диджеев и виджеев! Прошлая ночь была похожа на сон.`\nhttps://bsky.app/profile/appleblossomvr.bsky.social/post/3kgtczikgbe2a\n![[bafkreievcdu3vmt7iz5xu3l6gvktjza2zltk7yppa2bwfrhhi53hjvka4m.jpg]]","x":-1330,"y":991,"width":458,"height":465},
+		{"id":"46aef0608add6a0b","type":"text","text":"разработчикики:\n**@AxDxDOS**\n**apple_blossom**\nSteph(?)","x":-535,"y":-189,"width":258,"height":135},
+		{"id":"8147349e4fe9400a","type":"text","text":"автор\n**Gomorroth**\nhttps://vrchat.com/home/user/usr_8ee00ac8-cb2a-4eb5-9754-6393e72a5444\nhttps://twitter.com/Gomorroth","x":-4261,"y":-197,"width":387,"height":259},
+		{"id":"230c5533cc923a8a","type":"text","text":"мир\n**ParticleScreen**\n*110323*\nhttps://vrchat.com/home/world/wrld_c3e99788-7eee-4278-997a-5506b4769a43\n\n![[file 2.png]]","x":-4172,"y":512,"width":356,"height":473},
+		{"id":"d961825f8adb70b1","type":"text","text":"префаб\n**【VRChatワールド小物】パーティクルスクリーン**\n\nhttps://ashley-scarlet.booth.pm/items/4603050","x":-4295,"y":165,"width":516,"height":195},
+		{"id":"718b7fb0ccbb43c8","type":"text","text":"твит\n**@AxDxDOS**\n*070823*\nhttps://twitter.com/AxDxDOS/status/1688643197113679872","x":-3201,"y":815,"width":335,"height":283},
+		{"id":"f4d91bf5b9490115","type":"text","text":"автор @AxDxDOS\n*030124*\n\nhttps://twitter.com/AxDxDOS/status/1742596567758999974\nМного думал о том, стоит ли публиковать это, \nно я все равно работаю над этим, чтобы вдохновить других. \nК черту это. Кошки все равно из мешка. \nТак что да. У нас есть *голограмма*, которая может *поглощать и отображать 3D-объекты через видеопоток*. \nИ мы собираемся его усовершенствовать.","x":-521,"y":984,"width":632,"height":353},
+		{"id":"d08c9f7008bd7202","type":"text","text":"мир\n**Laser Tower**\n*020124*\nавтор COMA.\n\nhttps://vrchat.com/home/world/wrld_e77649e4-e190-4d2d-9356-9d6e13269b13\nhttps://twitter.com/ComaPre/status/1741602635311161387","x":-829,"y":1776,"width":393,"height":330},
+		{"id":"57cddc8a13dd6e22","type":"text","text":"автор \n**mori六森**\nhttps://vrchat.com/home/user/usr_e7dbe038-d010-4bcb-821d-e65006b0ff13\nhttps://twitter.com/Lazy_Mori\nhttps://twitter.com/Mori_vrc\n=>\nhttps://twitter.com/mo802_11ca\n**ECHO vrclub**\nhttps://twitter.com/echo_vrclub\n","x":-3243,"y":-546,"width":434,"height":289},
+		{"id":"7aee0393aac46f7a","type":"text","text":"автор \n**Shiki墨子**\nhttps://twitter.com/mumoji2077","x":-2291,"y":-504,"width":394,"height":132},
+		{"id":"648b12bab24009eb","type":"text","text":"разработчик\n**apple_blossom**","x":-1310,"y":-41,"width":269,"height":95},
+		{"id":"2cd6648d20310be6","type":"text","text":"мир\n**Four Screens Bed Room But It's Partical**\n*290823* => 101123\nhttps://vrchat.com/home/world/wrld_ab739673-47fa-46c1-bc46-4fb7f835def9\n`Просто в мире четыре экрана․ Вдохновение от ECHO, автор mori六森․ Но это партиклы․․․`\n![[file 1.png]]","x":-2304,"y":172,"width":445,"height":532},
+		{"id":"fc592c00b47928b3","type":"text","text":"мир\n**Apple_MM**\n*290823* => 020124\nhttps://vrchat.com/home/world/wrld_673737e9-a842-42a5-aa5d-43d7d2840ab6\n`спасибо devotid за прекрасный table‚ и seiborg за механизм MM≺3`\n\ndevotid (сделал table)\nseiborg (сделал механизм-MM)\n\n![[file.png]]","x":-2262,"y":961,"width":374,"height":600}
+	],
+	"edges":[
+		{"id":"62f7c8c1d1f739f4","fromNode":"648b12bab24009eb","fromSide":"right","toNode":"46aef0608add6a0b","toSide":"left"},
+		{"id":"04024a4104fec3bf","fromNode":"46aef0608add6a0b","fromSide":"bottom","toNode":"f4d91bf5b9490115","toSide":"top"},
+		{"id":"949f2218d3788546","fromNode":"648b12bab24009eb","fromSide":"bottom","toNode":"4dc6e3f80204426a","toSide":"top"},
+		{"id":"2f7ef87843b5f38a","fromNode":"7aee0393aac46f7a","fromSide":"bottom","toNode":"2cd6648d20310be6","toSide":"top"},
+		{"id":"ff7a2156039cb07d","fromNode":"fc592c00b47928b3","fromSide":"right","toNode":"4dc6e3f80204426a","toSide":"left","label":"прошло\n3,5 мес"},
+		{"id":"85ce3c503e7107ba","fromNode":"4dc6e3f80204426a","fromSide":"right","toNode":"f4d91bf5b9490115","toSide":"left","label":"прошло\n0,5 мес"},
+		{"id":"1542840da7d9e570","fromNode":"648b12bab24009eb","fromSide":"bottom","toNode":"fc592c00b47928b3","toSide":"top"},
+		{"id":"53e8d905d60d9f19","fromNode":"2cd6648d20310be6","fromSide":"bottom","toNode":"fc592c00b47928b3","toSide":"top","label":"равные даты\nпубликации"},
+		{"id":"75537c9e74f2309a","fromNode":"57cddc8a13dd6e22","fromSide":"right","toNode":"2cd6648d20310be6","toSide":"left"},
+		{"id":"9692b0ca2d574f54","fromNode":"230c5533cc923a8a","fromSide":"right","toNode":"718b7fb0ccbb43c8","toSide":"left","label":"прошло\n5 мес"},
+		{"id":"92aa0c51bed53d2e","fromNode":"8147349e4fe9400a","fromSide":"bottom","toNode":"d961825f8adb70b1","toSide":"top"},
+		{"id":"02387022ca62f8f9","fromNode":"d961825f8adb70b1","fromSide":"bottom","toNode":"230c5533cc923a8a","toSide":"top"},
+		{"id":"4d9afe386054ecce","fromNode":"d961825f8adb70b1","fromSide":"right","toNode":"d08c9f7008bd7202","toSide":"left"},
+		{"id":"fa36b35d7f15e39e","fromNode":"718b7fb0ccbb43c8","fromSide":"right","toNode":"9f574ec2b59ac7e3","toSide":"left"}
+	]
+}

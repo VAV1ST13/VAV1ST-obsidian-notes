@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"f7cb266ae3cef9b4","x":1248,"y":-936,"width":353,"height":64,"type":"text","text":"**верхнюю черную майку убрать**"},
+		{"id":"fd474d6f42c7ceb8","x":1251,"y":-817,"width":836,"height":521,"type":"text","text":"**Одеть в синий комбенизон**\n![[рабочий комбенизон.png]]"},
+		{"id":"a67e8fd4cb463e20","x":1260,"y":-225,"width":358,"height":411,"type":"text","text":"**одеть желтые перчатки**\n\n![[рабочие перчатки.png]]"},
+		{"id":"56bfdc4f79f0c5a1","x":518,"y":-1029,"width":549,"height":948,"type":"text","text":"![[аватар Akulao.png]]"},
+		{"id":"7c60fdb8f01fa728","x":153,"y":-481,"width":217,"height":60,"type":"text","text":"**Akulao - аватар**"}
+	],
+	"edges":[
+		{"id":"42b7ee31b77ec186","fromNode":"7c60fdb8f01fa728","fromSide":"right","toNode":"56bfdc4f79f0c5a1","toSide":"left"},
+		{"id":"39d7bd11f8a3ac64","fromNode":"56bfdc4f79f0c5a1","fromSide":"right","toNode":"fd474d6f42c7ceb8","toSide":"left"},
+		{"id":"411f24f54cf5683e","fromNode":"56bfdc4f79f0c5a1","fromSide":"right","toNode":"a67e8fd4cb463e20","toSide":"left"},
+		{"id":"f9eec36935f5580f","fromNode":"56bfdc4f79f0c5a1","fromSide":"right","toNode":"f7cb266ae3cef9b4","toSide":"left"}
+	]
+}
